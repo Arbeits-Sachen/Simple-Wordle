@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+p
+{
+    padding: 0.5rem;
+}
+
+
+.input
+{
+    width: 1rem;
+}
+
+.checked
+{
+    display: inline-block;
+}
+
+#green
+{
+    background-color: green;
+    color: black;
+}
+
+#yellow
+{
+    background-color: yellow;
+    color: black;
+}
+
+#grey
+{
+    background-color: darkgrey;
+    color: black;
+}
