@@ -10,6 +10,12 @@ p
 }
 
 
+#holder
+{
+    text-align: center;
+}
+
+
 .input
 {
     width: 1rem;
