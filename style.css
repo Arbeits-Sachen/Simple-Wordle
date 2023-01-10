@@ -43,3 +43,8 @@ p
     background-color: darkgrey;
     color: black;
 }
+
+#submit
+{
+    padding-top: 1rem;
+}
